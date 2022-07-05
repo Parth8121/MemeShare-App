@@ -1,3 +1,3 @@
 # MemeShare-App
 
-In this Application, you can watch meme and share it to your friends.
+In this Application, you can see memes and share it with your freinds.
